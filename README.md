@@ -23,7 +23,6 @@ This project automates the **creation of a class timetable** using a **Genetic A
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/Time-table-genetic.git
    cd Time-table-genetic
 
 2. **Install dependencies**
@@ -60,3 +59,7 @@ Time-table-genetic/
 ├── Installation.md         # Setup instructions
 ├── Project guide.docx      # Detailed documentation
 └── README.md               # Project summary (this file)
+## User Interface
+
+<img width="1919" height="862" alt="Screenshot 2025-12-27 105335" src="https://github.com/user-attachments/assets/1f23f94e-6eae-4d5a-a029-2925cd617d26" />
+<img width="1914" height="865" alt="Screenshot 2025-12-27 105356" src="https://github.com/user-attachments/assets/448edd9b-2efe-47ef-880c-f142bf369b56" />
